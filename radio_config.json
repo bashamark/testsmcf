@@ -93,7 +93,7 @@
   },
   "admob": {
     "enabled": true,
-    "app_id": "ca-app-pub-9523725970329735~5587190670",
+    "app_id": "ca-app-pub-3940256099942544/9257395921",
     "app_open": {
       "enabled": true,
       "ad_unit_id": "ca-app-pub-9523725970329735/4458437642"
