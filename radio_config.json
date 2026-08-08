@@ -95,11 +95,11 @@
     "enabled": true,
     "app_id": "ca-app-pub-9523725970329735~5587190670",
     "app_open": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
     },
     "radio_pause_interstitial": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-9523725970329735/2892378874"
     },
     "radio_adaptive_banner": {
