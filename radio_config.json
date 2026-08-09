@@ -3,7 +3,7 @@
   "home_tab": {
     "enabled": false
   },
-  "configUrl": "https://raw.githubusercontent.com/bashamark/mcfradio2026/refs/heads/main/radio_config.json",
+  "configUrl": "https://raw.githubusercontent.com/bashamark/testsmcf/refs/heads/main/radio_config.json",
   "streamUrl": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3",
   "streams": [
     {
@@ -95,12 +95,12 @@
     "enabled": true,
     "app_id": "ca-app-pub-9523725970329735~5587190670",
     "app_open": {
-      "enabled": false,
-      "ad_unit_id": "ca-app-pub-9523725970329735/4458437642"
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
     },
     "radio_pause_interstitial": {
-      "enabled": false,
-      "ad_unit_id": "ca-app-pub-9523725970329735/2892378874"
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
     },
     "radio_adaptive_banner": {
       "enabled": true,
