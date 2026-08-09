@@ -3,7 +3,7 @@
   "home_tab": {
     "enabled": false
   },
-  "configUrl": "https://raw.githubusercontent.com/bashamark/testsmcf/refs/heads/main/radio_config.json",
+  "configUrl": "https://raw.githubusercontent.com/bashamark/mcfradio2026/refs/heads/main/radio_config.json",
   "streamUrl": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3",
   "streams": [
     {
@@ -30,7 +30,7 @@
   "chat": {
     "enabled": true,
     "url": "https://mcfchat-469b5.web.app/",
-    "label": "EMC Radio Chat"
+    "label": "MCF Radio Chat"
   },
   "give": {
     "enabled": false,
@@ -95,8 +95,8 @@
     "enabled": true,
     "app_id": "ca-app-pub-9523725970329735~5587190670",
     "app_open": {
-      "enabled": true,
-      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-9523725970329735/4458437642"
     },
     "radio_pause_interstitial": {
       "enabled": false,
