@@ -99,7 +99,7 @@
       "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
     },
     "radio_pause_interstitial": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
     },
     "radio_adaptive_banner": {
